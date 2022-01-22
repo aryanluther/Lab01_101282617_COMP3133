@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "name": "lab01_101282617_comp3133",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanluther/Lab01_101282617_COMP3133.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryanluther/Lab01_101282617_COMP3133/issues"
+  },
+  "homepage": "https://github.com/aryanluther/Lab01_101282617_COMP3133#readme",
+  "description": ""
+}
